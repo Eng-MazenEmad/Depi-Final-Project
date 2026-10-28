@@ -7,7 +7,7 @@ Retail Sales Analysis & Forecasting
 Avengers
 
 ## 💡 Project Idea
-A comprehensive data analysis and Cleaning project focused on analyzing retail store sales data. The project involves data cleaning, exploratory data analysis (EDA) to extract key business insights (such as category and regional performance impact), predictive forecasting, and interactive dashboard visualization using Power BI or Tableau.
+A comprehensive data analysis project focused on analyzing retail store sales data. The project involves data cleaning, exploratory data analysis (EDA) using SQL and Python to extract key business insights (such as category and regional performance impact), and designing an interactive Power BI or Tableau dashboard to present the final findings.
 
 ## 👥 Team Members
 
@@ -30,9 +30,9 @@ A comprehensive data analysis and Cleaning project focused on analyzing retail s
 - **Tasks:** Formulate and answer key business questions (e.g., impact of product categories and regions on sales and profit performance) using SQL and Python.
 - **Deliverables:** Set of documented analysis questions and answered insights.
 
-### **Week 3: Forecasting Phase**
-- **Tasks:** Define forecasting objectives, build predictive models, and analyze historical trends using Scikit-Learn, Pandas, and Matplotlib.
-- **Deliverables:** Visualization plots and predictive forecasting models.
+### **Week 3: Deep Dive & Advanced Insights**
+- **Tasks:** Perform deeper statistical analysis on sales trends, customer behavior, and profit margins using Pandas and visualization libraries.
+- **Deliverables:** Advanced analytical charts and statistical summary reports.
 
 ### **Week 4: Dashboard & Final Presentation**
 - **Tasks:** Design an interactive Power BI or Tableau visualization dashboard to display findings, and prepare the final presentation report.
@@ -40,14 +40,12 @@ A comprehensive data analysis and Cleaning project focused on analyzing retail s
 
 ## ⚙️ Roles & Responsibilities
 - **Data Engineer / SQL Specialist:** Responsible for data modeling, cleaning, and preprocessing (Week 1).
-- **Data Analyst:** Responsible for formulating business questions, exploratory data analysis, and deriving insights (Week 2).
-- **Machine Learning Engineer:** Responsible for developing trend forecasting models and predictions (Week 3).
+- **Data Analyst:** Responsible for formulating business questions, exploratory data analysis, and deriving insights (Week 2 & 3).
 - **BI / Visualization Developer:** Responsible for building the Power BI or Tableau dashboard and compiling the final presentation (Week 4).
 
 ## 📊 KPIs (Key Performance Indicators)
 - **Data Quality:** 100% handling of missing/duplicate records during preprocessing.
 - **Insight Generation:** Successfully answering all core business performance questions regarding categories, regions, and profits.
-- **Forecast Accuracy:** Low error metrics (e.g., RMSE/MAE) on sales trend predictions.
 - **Dashboard Usability:** Clean, interactive, and responsive Power BI or Tableau dashboard covering all project metrics.
 
 ## 👨‍🏫 Instructor & Group
