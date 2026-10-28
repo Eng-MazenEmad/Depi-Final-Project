@@ -23,26 +23,26 @@ A comprehensive data analysis and Cleaning project focused on analyzing retail s
 ## 📅 Work Plan (4-Week Roadmap)
 
 ### **Week 1: Data Preprocessing & Cleaning**
-- **Tasks:** Build a data model, handle missing values, clean and preprocess raw data using SQL and Python (Pandas, Matplotlib)[cite: 2].
-- **Deliverables:** Cleaned dataset ready for analysis & Data preprocessing notebook[cite: 2].
+- **Tasks:** Build a data model, handle missing values, clean and preprocess raw data using SQL and Python (Pandas, Matplotlib).
+- **Deliverables:** Cleaned dataset ready for analysis & Data preprocessing notebook.
 
 ### **Week 2: Analysis Questions Phase**
-- **Tasks:** Formulate and answer key business questions (e.g., impact of product categories and regions on sales and profit performance) using SQL and Python[cite: 2].
-- **Deliverables:** Set of documented analysis questions and answered insights[cite: 2].
+- **Tasks:** Formulate and answer key business questions (e.g., impact of product categories and regions on sales and profit performance) using SQL and Python.
+- **Deliverables:** Set of documented analysis questions and answered insights.
 
 ### **Week 3: Forecasting Phase**
-- **Tasks:** Define forecasting objectives, build predictive models, and analyze historical trends using Scikit-Learn, Pandas, and Matplotlib[cite: 2].
-- **Deliverables:** Visualization plots and predictive forecasting models[cite: 2].
+- **Tasks:** Define forecasting objectives, build predictive models, and analyze historical trends using Scikit-Learn, Pandas, and Matplotlib.
+- **Deliverables:** Visualization plots and predictive forecasting models.
 
 ### **Week 4: Dashboard & Final Presentation**
-- **Tasks:** Design an interactive Power BI or Tableau visualization dashboard to display findings, and prepare the final presentation report[cite: 2].
-- **Deliverables:** Power BI / Tableau Dashboard, Final Report, and Presentation[cite: 2].
+- **Tasks:** Design an interactive Power BI or Tableau visualization dashboard to display findings, and prepare the final presentation report.
+- **Deliverables:** Power BI / Tableau Dashboard, Final Report, and Presentation.
 
 ## ⚙️ Roles & Responsibilities
-- **Data Engineer / SQL Specialist:** Responsible for data modeling, cleaning, and preprocessing (Week 1)[cite: 2].
-- **Data Analyst:** Responsible for formulating business questions, exploratory data analysis, and deriving insights (Week 2)[cite: 2].
-- **Machine Learning Engineer:** Responsible for developing trend forecasting models and predictions (Week 3)[cite: 2].
-- **BI / Visualization Developer:** Responsible for building the Power BI or Tableau dashboard and compiling the final presentation (Week 4)[cite: 2].
+- **Data Engineer / SQL Specialist:** Responsible for data modeling, cleaning, and preprocessing (Week 1).
+- **Data Analyst:** Responsible for formulating business questions, exploratory data analysis, and deriving insights (Week 2).
+- **Machine Learning Engineer:** Responsible for developing trend forecasting models and predictions (Week 3).
+- **BI / Visualization Developer:** Responsible for building the Power BI or Tableau dashboard and compiling the final presentation (Week 4).
 
 ## 📊 KPIs (Key Performance Indicators)
 - **Data Quality:** 100% handling of missing/duplicate records during preprocessing.
